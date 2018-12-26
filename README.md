@@ -1,5 +1,9 @@
 # Microservices vs SOA
 
+
+TODO 그림 추가 필요
+
+
 해당 글은 https://www.nginx.com/resources/library/microservices-vs-soa/ 의 EBOOK을 번역한 내용입니다.
 
 중간 중간 필요 없다고 생각 되는 부분은 빼기도 하였고
